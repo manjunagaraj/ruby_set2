@@ -2,11 +2,9 @@
 # Define three other classes i.e student, teacher and parent which should have all the properties of Person.
 # Define a method which introduces the person with his firstname, lastname, age, city and state.
 
-
-
 class Person
 	def name(fname)
-		print"Firstname:-"
+		print "Firstname:-"
 		fname.name
 	end
 
@@ -16,7 +14,7 @@ class Person
 	end	
 
 	def age(person_age)
-		print"Age:-"
+		puts "Age:-"
 			person_age.age
 	end
 
@@ -26,7 +24,7 @@ class Person
 	end
 
 	def state(state)
-		print"State:-"
+		print "State:-"
 		state.state
 	end
 
