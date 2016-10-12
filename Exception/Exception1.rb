@@ -1,7 +1,5 @@
-# Check if there are any errors in the code and fix them.
-
 a = 10
-b = "42"
+b = 42
 
 begin
    a + b
